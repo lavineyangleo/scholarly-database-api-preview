@@ -15,3 +15,8 @@ GitHub Pages publishes the main branch root. Never commit access credentials. Re
 ## License
 
 MIT covers the original interface; third-party content retains its original rights.
+
+
+## Dongbi ratings and side-by-side comparison
+
+[New preview entry](https://lavineyangleo.github.io/scholarly-database-api-preview/evaluation.html). Use the complete link supplied by the sender. Includes nine ranking lists from three providers, content-relevance checks for 90 result positions, publication venues, Dongbi 2026 rating distributions and ranking assessments, with CSV downloads. Existing report links remain available. These are saved real evaluations, not live searches or overall provider quality rankings. The original journal workbook and API responses are not published.
